@@ -1,0 +1,19 @@
+{
+    "name": "RUtil.Examples.Editor",
+    "references": [
+        "GUID:0d91127955971ff45938330216ac3bd2",
+        "GUID:b63751a3965276044a561730cd43673f",
+        "GUID:ee0c8b28b0d629443b8f4f0701644c5e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
