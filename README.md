@@ -56,4 +56,5 @@ In the following grid, the "@" and "/" represent "click a control point (CP)" an
 
 ## For code readers
 The core implementation of PPW Curves is `Assets/Plugins/RUtil/Scripts/Runtime/Curve/PPWCurve.cs`. 
-The drawer `Assets/Scripts/PathDrawer/PPWCurveDrawer.cs` constructs and input curve data into `PPWCurve.CalcAll(CurveData)`.
+The drawer `Assets/Scripts/PathDrawer/PPWCurveDrawer.cs` constructs and inputs curve data into `PPWCurve.CalcAll`.
+Calculation results will be stored in the input PPWCurve.CurveData instance.
